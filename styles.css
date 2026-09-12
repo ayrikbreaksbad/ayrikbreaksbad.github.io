@@ -5,11 +5,13 @@ body {
 }
 
 header {
-    color: darkgreen;
+    background-color: darkgreen;
     size: 20px;
+    padding: 10px
 }
 
 h1 {
     color: white;
     outline: black; outline-style: initial;
+    text-align: center;
 }
