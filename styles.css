@@ -4,6 +4,10 @@ body {
 
 }
 
+header {
+    color: darkgreen;
+}
+
 h1 {
     color: white;
     outline: black; outline-style: initial;
