@@ -1,11 +1,12 @@
 body {
     background-color: #d1ffbd;
     font-family: 'Tahoma';
-
+ 
 }
 
 .header {
     background-color: darkgreen;
+    margin: 0px;
     padding: 30px
 }
 
@@ -13,5 +14,4 @@ h1 {
     color: white;
     outline: black; outline-style: initial;
     text-align: center;
-    font-size: large;
 }
