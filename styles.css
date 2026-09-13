@@ -6,12 +6,12 @@ body {
 
 .header {
     background-color: darkgreen;
-    size: 20px;
-    padding: 20px
+    padding: 30px
 }
 
 h1 {
     color: white;
     outline: black; outline-style: initial;
     text-align: center;
+    font-size: large;
 }
