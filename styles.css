@@ -1,11 +1,11 @@
 body {
-    background-color: lightgreen;
+    background-color: #d1ffbd;
     font-family: 'Tahoma';
 
 }
 
 .header {
-    background-color: #d1ffbd
+    background-color: darkgreen
     size: 20px;
     padding: 10px
 }
