@@ -12,7 +12,7 @@ body {
 .sidenav {
     position: fixed;
     left: 0px;
-    top: 10px;
+    top: 9px;
     background-color: forestgreen;
     color: white;
     text-decoration: none;
