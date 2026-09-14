@@ -9,8 +9,14 @@ body {
     padding: 15px;
 }
 
+.sidenav {
+    position: fixed;
+
+}
+
 h1 {
     color: white;
     outline: black; outline-style: initial;
     text-align: center;
 }
+
