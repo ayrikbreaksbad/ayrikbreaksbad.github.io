@@ -12,10 +12,11 @@ body {
 .sidenav {
     position: fixed;
     left: 0px;
-    background-color: darkgreen;
+    background-color: forestgreen;
     color: white;
     text-decoration: none;
     height: 100%;
+    border: black; size: 2px;
 
 }
 
