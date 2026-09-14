@@ -7,6 +7,8 @@ body {
 .header {
     background-color: darkgreen;
     padding: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
 }
 
 .sidenav {
@@ -21,6 +23,7 @@ body {
 
 .main {
     margin-left: 10px;
+
 }
 
 h1 {
