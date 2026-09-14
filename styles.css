@@ -10,12 +10,12 @@ body {
 }
 
 .sidenav {
-    height: 100%
     position: fixed;
     left: 0px;
     background-color: darkgreen;
     color: white;
     text-decoration: none;
+    height: 100%;
 
 }
 
