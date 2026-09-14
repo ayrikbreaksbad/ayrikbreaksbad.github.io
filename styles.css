@@ -11,6 +11,9 @@ body {
 
 .sidenav {
     position: fixed;
+    margin-left: 20px;
+    background-color: darkgreen;
+    color: white;
 
 }
 
