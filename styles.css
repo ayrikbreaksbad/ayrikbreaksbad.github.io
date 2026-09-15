@@ -46,7 +46,7 @@ a {
     width: 200px;
     position: fixed;
     background-color:lightgreen;
-    left: 9px;
+    left: 8px;
 }
 
 .dropdown:click .dropbtn {display: block;}
