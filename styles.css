@@ -46,10 +46,11 @@ a {
     width: 200px;
     position: fixed;
     background-color:lightgreen;
+    left: 10px;
 }
 
 .dropdown:click .dropbtn {display: block;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown-content a:hover {background-color:lightgray;}
+.dropdown-content a:hover {background-color:rgb(60, 150, 60)}
