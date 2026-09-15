@@ -41,9 +41,10 @@ a {
 .dropdown-content {
     position: absolute;
     display: none;
+    width: ;
 }
 
-.dropdown:hover .dropbtn {display: block;}
+.dropdown:hover .dropbtn
 
 .dropdown:hover .dropdown-content {display: block;}
 
