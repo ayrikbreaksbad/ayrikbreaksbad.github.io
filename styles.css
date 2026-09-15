@@ -11,7 +11,7 @@ body {
 
 button {
     position: fixed;
-    right: 0px;
+    left: 0px;
     top: 8.9px;
     border: black; size: 2px;
     size: 10%;
