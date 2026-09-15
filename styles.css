@@ -32,3 +32,8 @@ h1 {
 a {
     text-decoration: none;
 }
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
