@@ -9,7 +9,7 @@ body {
     padding: 15px;
 }
 
-.button {
+button {
     position: fixed;
     right: 0px;
     top: 8.9px;
