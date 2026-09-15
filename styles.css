@@ -9,14 +9,12 @@ body {
     padding: 15px;
 }
 
-.dropbtn {
+.button {
     position: fixed;
     right: 0px;
     top: 8.9px;
-    background-color: forestgreen;
-    color: white;
-    text-decoration: none;
     border: black; size: 2px;
+    size: 10%;
 
 }
 
