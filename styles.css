@@ -14,15 +14,12 @@ button {
     right: 0px;
     top: 8.9px;
     border: black; size: 2px;
+    size: 10%;
 
 
 }
     
 #M1 {
-    size: 10%;
-}
-
-#M2 {
     size: 10%;
 }
 
