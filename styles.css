@@ -12,7 +12,7 @@ body {
 button {
     position: fixed;
     left: 0px;
-    top: 8.9px;
+    top: 0px;
     border: black; size: 2px;
     size: 10%;
     font-family: 'Tahoma';
@@ -47,7 +47,7 @@ a {
     position: fixed;
     background-color:lightgreen;
     left: 8px;
-    top: 26px;
+    top: 10px;
 }
 
 .dropdown:click .dropbtn {display: block;}
