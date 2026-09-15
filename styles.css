@@ -42,6 +42,7 @@ a {
     position: absolute;
     display: none;
     width: 200px;
+    position: fixed;
 }
 
 .dropdown:click .dropbtn {display: block;}
