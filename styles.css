@@ -44,7 +44,7 @@ a {
     width: 200px;
 }
 
-.dropdown:hover .dropbtn {display: block;}
+.dropdown:click .dropbtn {display: block;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
