@@ -1,6 +1,9 @@
 body {
     background-color: #d1ffbd;
-    font-family: 'Tahoma';
+    @font-face {
+        font-family: OOTFont;
+        src: url(Miscnellanous/chiarostd_b.otf);
+    }
  
 }
 
