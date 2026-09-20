@@ -6,4 +6,6 @@ img {
 
 body {
     background-image: url(images/BG_Epona.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
