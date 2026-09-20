@@ -2,9 +2,13 @@ body {
     background-color: #d1ffbd;
     @font-face {
         font-family: OOTFont;
-        src: url(chiarostd_b.otf);
+        src: url(Miscellanous/chiarostd_b);
     }
  
+}
+
+div {
+    font-family: OOTFont;
 }
 
 .header {
