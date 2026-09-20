@@ -2,7 +2,7 @@ body {
     background-color: #d1ffbd;
     @font-face {
         font-family: OOTFont;
-        src: url(Miscellanous/chiarostd_b);
+        src: url(Miscellanous/chiarostd_b.otf);
     }
  
 }
