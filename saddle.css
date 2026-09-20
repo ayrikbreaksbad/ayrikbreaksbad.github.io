@@ -1,5 +1,9 @@
-img {
+.horseimg {
     width: 400px;
     height: 400px;
 
+}
+
+body {
+    background-image: url(images/BG_Epona.png);
 }
