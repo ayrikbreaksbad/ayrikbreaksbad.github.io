@@ -2,8 +2,7 @@ img {
     display:block;
     width: 400px;
     height: 400px;
-    bottom: 20px;
-    left: 450px;
+    align-items: center;
 }
 
 body {
