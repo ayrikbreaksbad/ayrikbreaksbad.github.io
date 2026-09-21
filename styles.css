@@ -45,11 +45,11 @@ a {
     position: fixed;
     background-color:greenyellow;
     left: 8px;
-    top: 18px;
+    top: 25px;
 }
 
 .dropdown:click .dropbtn {display: block;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover {background-color:rgb(60, 150, 60)}
+.dropdown-content a {background-color:rgb(60, 150, 60)}
