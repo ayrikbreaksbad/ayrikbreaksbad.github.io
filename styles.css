@@ -13,7 +13,7 @@ button {
     top: 0px;
     border: black; size: 2px;
     size: 20%;
-    font-family: 'Tahoma';
+    font-family: 'OOTFont';
     background-color: forestgreen;
 
 }
@@ -52,4 +52,4 @@ a {
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown-content a:hover {background-color:rgb(60, 150, 60)}
+.dropdown:hover {background-color:rgb(60, 150, 60)}
