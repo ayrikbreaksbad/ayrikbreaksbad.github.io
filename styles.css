@@ -40,7 +40,7 @@ a {
 
 .dropdown-content {
     position: absolute;
-    display: none;
+    display: block;
     width: 200px;
     position: fixed;
     background-color:greenyellow;
