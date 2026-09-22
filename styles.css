@@ -7,7 +7,7 @@ body {
     padding: 15px;
 }
 
-button {
+.MenuBTN {
     position: fixed;
     left: 0px;
     top: 0px;
