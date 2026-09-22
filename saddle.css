@@ -2,8 +2,7 @@ img {
     display:block;
     width: 400px;
     height: 400px;
-    right: 399px;
-    bottom: 0px;
+    margin: auto;
 }
 
 body {
