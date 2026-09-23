@@ -53,3 +53,11 @@ a {
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown-content a:hover {background-color:rgb(60, 150, 60)}
+
+.horselink {
+    width: 350px;
+    height: 350px;
+    bottom: 0px;
+    right: 20px;
+
+}
