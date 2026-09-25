@@ -55,9 +55,9 @@ a {
 .dropdown-content a:hover {background-color:rgb(60, 150, 60)}
 
 #horselink {
-    width: 350px;
-    height: 350px;
+    width: 330px;
+    height: 330px;
     bottom: 0px;
-    margin-left: 20px;
+    margin-right: 15px;
 
 }
