@@ -1,0 +1,46 @@
+button {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    border: black; size: 2px;
+    size: 20%;
+    font-family: 'OOTFont';
+    background-color: forestgreen;
+
+}
+
+.main {
+    margin-left: 10px;
+
+}
+
+h1 {
+    color: white;
+    outline: black; outline-style: initial;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    position: absolute;
+    display: none;
+    width: 200px;
+    position: fixed;
+    background-color:greenyellow;
+    left: 8px;
+    top: 29px;
+}
+
+.dropdown:click .dropbtn {display: block;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown-content a:hover {background-color:rgb(60, 150, 60)}
