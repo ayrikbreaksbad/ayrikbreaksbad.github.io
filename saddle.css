@@ -13,4 +13,6 @@ button{
     bottom: 0;
     right: 500px;
     position: fixed;
+    border: 0;
+    background: none;
 }
