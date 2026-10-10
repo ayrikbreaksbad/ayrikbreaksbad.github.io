@@ -1,13 +1,16 @@
 img {
-    position: fixed;
     width: 390px;
     height: 390px;
-    bottom: 0;
-    right: 500px;
 }
 
 body {
     background-image: url(Images/BG_Epona.png);
     background-repeat: no-repeat;
     background-size: 100%;
+}
+
+button{
+    bottom: 0;
+    right: 500px;
+    position: fixed;
 }
