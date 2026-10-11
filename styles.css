@@ -24,6 +24,7 @@ body {
     size: 30%;
     font-family: 'OOTFont';
     background-color: darkgreen;
+    color: white;
 
 }
 
@@ -31,6 +32,8 @@ body {
     float: left;
     left: 10px;
     margin-right: 10px;
+    width: 500px;
+    height: 400px;
 
 }
 
