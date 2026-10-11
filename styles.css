@@ -20,12 +20,10 @@ body {
 }
 
 .main {
-    margin-left: 10px;
+    image {
+        float: left;
+    }
 
-}
-
-image {
-    float: left;
 }
 
 h1 {
