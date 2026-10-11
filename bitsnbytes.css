@@ -1,18 +1,37 @@
-button {
+body {
+    background-color: #d1ffbd;
+}
+
+.header {
+    background-color: darkgreen;
+    padding: 5px;
+    font-size: large;
+}
+
+#MenuBTN {
     position: fixed;
     left: 0px;
     top: 0px;
     border: black; size: 2px;
-    size: 20%;
+    size: 30%;
     font-family: 'OOTFont';
-    background-color: forestgreen;
+    background-color: darkgreen;
 
 }
 
 .main {
+
+
+}
+
+#Image1 {
+    float: right;
+    right: 10px;
     margin-left: 10px;
 
 }
+
+
 
 h1 {
     color: white;
@@ -31,16 +50,27 @@ a {
 
 .dropdown-content {
     position: absolute;
+    min-width: 200px;
     display: none;
-    width: 200px;
     position: fixed;
-    background-color:greenyellow;
+    background-color: forestgreen;
     left: 8px;
     top: 29px;
+}
+
+.dropdown-content a{
+    display: block;
+}
+
+.dropdown-content a:hover {
+  display: block;
+
 }
 
 .dropdown:click .dropbtn {display: block;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown-content a:hover {background-color:rgb(60, 150, 60)}
+.dropdown-content a:hover {background-color:rgb(92, 195, 92)}
+
+
