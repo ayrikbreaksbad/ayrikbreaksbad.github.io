@@ -37,7 +37,10 @@ body {
 
 }
 
-
+#Neigh {
+    text-decoration: none;
+    color: white;
+}
 
 h1 {
     color: white;
