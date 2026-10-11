@@ -48,6 +48,11 @@ a {
     top: 29px;
 }
 
+.dropdown-content a:hover {
+  display: block;
+
+}
+
 .dropdown:click .dropbtn {display: block;}
 
 .dropdown:hover .dropdown-content {display: block;}
