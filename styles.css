@@ -41,12 +41,15 @@ a {
 .dropdown-content {
     position: absolute;
     min-width: 200px;
-    width: 200px;
     display: none;
     position: fixed;
     background-color:greenyellow;
     left: 8px;
     top: 29px;
+}
+
+.dropdown-content a{
+    display: block;
 }
 
 .dropdown-content a:hover {
