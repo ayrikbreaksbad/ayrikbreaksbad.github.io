@@ -12,7 +12,7 @@ body {
     left: 0px;
     top: 0px;
     border: black; size: 2px;
-    size: 20%;
+    size: 30%;
     font-family: 'OOTFont';
     background-color: darkgreen;
 
@@ -45,7 +45,7 @@ a {
     position: fixed;
     background-color: forestgreen;
     left: 8px;
-    top: 29px;
+    top: 43px;
 }
 
 .dropdown-content a{
