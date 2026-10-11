@@ -24,6 +24,10 @@ body {
 
 }
 
+image {
+    float: left;
+}
+
 h1 {
     color: white;
     outline: black; outline-style: initial;
