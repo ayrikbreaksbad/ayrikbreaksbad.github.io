@@ -81,11 +81,3 @@ a {
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown-content a:hover {background-color:rgb(92, 195, 92)}
-
-#horselink {
-    width: 330px;
-    height: 330px;
-    bottom: 0px;
-    left: 0px;
-
-}
