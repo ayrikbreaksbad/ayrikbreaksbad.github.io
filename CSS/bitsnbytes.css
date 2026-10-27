@@ -28,6 +28,14 @@ body {
 
 }
 
+#IMGBTN {
+    border: black; size: 2px;
+    size: 30%;
+    font-family: 'OOTFont';
+    background-color: darkgreen;
+    color: white;
+
+}
 
 
 h1 {
