@@ -83,7 +83,7 @@ a {
     height: 500px;
     right: 10px;
     margin-left: 10px;
-    display: block;
+    float: right;
 
 }
 
