@@ -34,6 +34,8 @@ body {
     font-family: 'OOTFont';
     background-color: darkgreen;
     color: white;
+    float: right;
+    right: 10px;
 
 }
 
