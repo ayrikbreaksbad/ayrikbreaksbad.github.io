@@ -1,0 +1,80 @@
+body {
+    background-color: #d1ffbd;
+}
+
+.header {
+    background-color: darkgreen;
+    padding: 5px;
+    font-size: large;
+}
+
+#MenuBTN {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    border: black; size: 2px;
+    size: 30%;
+    font-family: 'OOTFont';
+    background-color: darkgreen;
+
+}
+
+#IMGBTN {
+    border: black; size: 2px;
+    size: 30%;
+    font-family: 'OOTFont';
+    background-color: darkgreen;
+    color: white;
+
+
+}
+
+#ImageC1 {
+    float: left;
+    left: 10px;
+    margin-right: 10px;
+    width: 700px;
+    height: 400px;
+
+}
+
+
+h1 {
+    color: white;
+    outline: black; outline-style: initial;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    position: absolute;
+    min-width: 200px;
+    display: none;
+    position: fixed;
+    background-color: forestgreen;
+    left: 8px;
+    top: 29px;
+}
+
+.dropdown-content a{
+    display: block;
+}
+
+.dropdown-content a:hover {
+  display: block;
+
+}
+
+.dropdown:click .dropbtn {display: block;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown-content a:hover {background-color:rgb(92, 195, 92)}
