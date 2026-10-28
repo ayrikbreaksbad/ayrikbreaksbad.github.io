@@ -91,3 +91,9 @@ a {
     float: right;
 
 }
+
+footer {
+    background-color: darkgreen;
+    padding: 5px;
+    font-size: large;
+}
