@@ -4,7 +4,7 @@ img {
 }
 
 body {
-    background-image: url("Images/BG_Epona");
+    background-image: url('Images/BG_Epona.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
